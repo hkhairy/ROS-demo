@@ -10,4 +10,4 @@ we want to simulate ultrasonic reading using rviz, for this we will need
 
 The source file *ultrasonic_sim.cpp* is the code for the publisher node, and it handles what we said earlier. In order to launch this publisher node, just run in the command line 'rosrun assign6 ultrasonic_sim'
 
-#### Here is a link for a video, which goes through the process:
+#### Here is a []link for a video, which goes through the process:
