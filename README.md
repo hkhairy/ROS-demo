@@ -8,6 +8,6 @@ we want to simulate ultrasonic reading using rviz, for this we will need
 - A publihser to simulate dummy data, and publish it over a topic
 - use 'sensor_msg::Range' message type, which enables rviz to identify its topic
 
-The source file *ultrasonic_sim.cpp* handles that. In order to launch the publisher node, just run in the command line 'rosrun assign6 ultrasonic_sim'
+The source file *ultrasonic_sim.cpp* is the code for the publisher node, and it handles what we said earlier. In order to launch this publisher node, just run in the command line 'rosrun assign6 ultrasonic_sim'
 
-Here is a link for a video, which goes through the process:
+#### Here is a link for a video, which goes through the process:
